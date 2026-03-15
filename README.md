@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=33FF57&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+Noyon+👋;Web3+Content+Creator+🌐;Crypto+%7C+Blockchain+%7C+Linux;Sharing+Knowledge+in+Web3;Always+Learning+Something+New+🚀" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=33FF57&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+Noyon+👋;Web3+Content+Creator+🌐;Crypto+%7C+Blockchain+%7C+Linux;Sharing+Knowledge+in+Web3;Always+Learning+Something+New" />
 <p>
 <img src="https://komarev.com/ghpvc/?username=n0y0nahamed&label=PROFILE+VIEWS&style=flat-square&color=blueviolet" />
 </p>
